@@ -7,10 +7,8 @@
 </ul>
 
 <div align="center">
-    <a href="https://www,github.com/joasdc">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joasdc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joasdc&layout=compact&langs_count=7&theme=tokyonight"/>
-    </a>
 </div>
 
 <div display="inline_block"><br>
