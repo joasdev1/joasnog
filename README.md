@@ -2,7 +2,7 @@
 
 <ul>
     <li>👩‍💻 I'm currently working on private projects</li>
-    <li>🧠 I'm currently learning software enginnering</li>
+    <li>🧠 I'm currently learning software engineering</li>
     <li>📫 Contact: <a href="mailto:idelfonsojoas@gmail.com">idelfonsojoas@gmail.com</a></li>
 </ul>
 
