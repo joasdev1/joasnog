@@ -1,5 +1,7 @@
 # Hi, I'm Idelfonso Joas! 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joasdc&color=blueviolet" alt="Profile views" /> </p>
+
 <ul>
     <li>👩‍💻 I'm currently working on private projects</li>
     <li>🧠 I'm currently learning React</li>
@@ -28,7 +30,3 @@
     <a href="https://www.linkedin.com/in/joasdc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:idelfonsojoas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
-    
-
-
-
