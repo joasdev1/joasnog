@@ -16,7 +16,7 @@
 ---
 ### My tech stack
 ![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=323330)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=323330)
+![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=white&color=323330)
 ![](https://img.shields.io/badge/Node.Js-informational?style=flat&logo=node.js&logoColor=white&color=323330)
 ![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&logoColor=white&color=323330)
 
