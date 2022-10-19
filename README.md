@@ -1,4 +1,4 @@
-## Idelfonso Joás :man_technologist:
+## Hi there, I'm Joas 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joasdc)](https://github.com/joasdc)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joasdc/)](https://www.linkedin.com/in/joasdc) 
@@ -8,8 +8,8 @@
 ---
 ### About me
 
-- My name is Idelfonso Joás, I am a mobile developer and currently live in Brazil.
-- I have at least 6 months of experience developing applications with Flutter.
+- I am a mobile developer and currently live in Brazil.
+- I have at least 8 months of experience developing applications with Flutter.
 - I am currently learning Flutter and Node.js.
 - Contact me **idelfonsojoas@gmail.com** 
 
