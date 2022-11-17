@@ -3,8 +3,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joasdc)](https://github.com/joasdc)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joasdc/)](https://www.linkedin.com/in/joasdc) 
 
-[![Joas's GitHub stats](https://github-readme-stats.vercel.app/api?username=joasnog&title_color=ffffff&text_color=c9cacc&icon_color=9400D3&bg_color=1d1f21)](https://github.com/joasdc/github-readme-stats&hide=contribs,prs)
-
 ---
 ### About me
 
