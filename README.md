@@ -7,7 +7,7 @@
 ### About me
 
 - I am a mobile developer and currently live in Brazil.
-- I have at least 8 months of experience developing applications with Flutter.
+- I have at least 1 year of experience developing applications with Flutter.
 - I am currently learning Flutter and Node.js.
 - Contact me **idelfonsojoas@gmail.com** 
 
