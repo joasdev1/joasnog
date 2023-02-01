@@ -12,10 +12,10 @@
 - Contact me **idelfonsojoas@gmail.com** 
 
 ---
-### My tech stack
+### Technologies
+![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=323330)
 ![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=323330)
-![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=white&color=323330)
-![](https://img.shields.io/badge/Node.Js-informational?style=flat&logo=node.js&logoColor=white&color=323330)
+![](https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white&color=323330)
 ![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&logoColor=white&color=323330)
 
 
