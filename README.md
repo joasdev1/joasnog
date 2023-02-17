@@ -8,7 +8,7 @@
 
 - I am a mobile developer and currently live in Brazil.
 - I have at least 1 year of experience developing applications with Flutter.
-- I am currently learning Flutter and Node.js.
+- I am currently learning Flutter and Go.
 - Contact me **idelfonsojoas@gmail.com** 
 
 ---
