@@ -15,6 +15,7 @@
 ### Technologies
 ![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=323330)
 ![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=323330)
+![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white&color=323330)
 ![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&logoColor=white&color=323330)
 
 
