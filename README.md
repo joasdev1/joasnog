@@ -1,7 +1,7 @@
 ## Hi there, I'm Joas 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joasdc)](https://github.com/joasnog)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joasdc/)](https://www.linkedin.com/in/joasdc) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joasdc/)](https://www.linkedin.com/in/joasnog) 
 
 ---
 ### About me
