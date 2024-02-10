@@ -6,7 +6,7 @@
 ---
 ### About me
 
-- Brazilian Software Enginner
+- Brazilian Software Engineer
 - Contact me **idelfonsojoas@gmail.com** 
 
 ---
